@@ -1,0 +1,15 @@
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\bin\Debug\ChineseChessFinal.exe
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\bin\Debug\ChineseChessFinal.pdb
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\ChineseChessFinal.Properties.Resources.resources
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\ChineseChessFinal.csproj.GenerateResource.Cache
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\ChineseChessFinal.exe
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\ChineseChessFinal.pdb
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\ChineseChessFinal.Form1.resources
+I:\备份\编程开发资料\codes\DrawChineseChess\DrawChineseChess\obj\Debug\ChineseChessFinal.exe
+I:\备份\编程开发资料\codes\DrawChineseChess\DrawChineseChess\obj\Debug\ChineseChessFinal.pdb
+I:\备份\编程开发资料\codes\DrawChineseChess\DrawChineseChess\bin\Debug\ChineseChessFinal.exe
+I:\备份\编程开发资料\codes\DrawChineseChess\DrawChineseChess\bin\Debug\ChineseChessFinal.pdb
+I:\备份\编程开发资料\codes\DrawChineseChess\DrawChineseChess\obj\Debug\ResolveAssemblyReference.cache
+I:\备份\编程开发资料\codes\DrawChineseChess\DrawChineseChess\obj\Debug\ChineseChessFinal.Form1.resources
+I:\备份\编程开发资料\codes\DrawChineseChess\DrawChineseChess\obj\Debug\ChineseChessFinal.Properties.Resources.resources

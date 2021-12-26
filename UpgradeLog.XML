@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ChineseChessFinal">
+</Property><Property Name="解决方案文件" Value="I:\备份\编程开发资料\codes\DrawChineseChess\ChineseChessFinal.sln">
+</Property><Property Name="用户选项文件" Value="I:\备份\编程开发资料\codes\DrawChineseChess\ChineseChessFinal.suo">
+</Property><Property Name="Date" Value="2012年8月16日">
+</Property><Property Name="Time" Value="1:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ChineseChessFinal.sln" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\ChineseChessFinal.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ChineseChessFinal.suo" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\ChineseChessFinal.suo">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\ChineseChessFinal.csproj" Description="项目文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\ChineseChessFinal.csproj">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\Form1.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\Form1.Designer.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\Program.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\Program.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\Properties\AssemblyInfo.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\Properties\Resources.Designer.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\Properties\Settings.Designer.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\兵.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\兵.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\士.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\士.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\将.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\将.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\棋子.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\棋子.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\棋盘.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\棋盘.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\炮.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\炮.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\规则.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\规则.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\象.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\象.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\车.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\车.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\马.cs" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\马.cs">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\Properties\Settings.settings" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\图片.ico" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\图片.ico">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\Form1.resx" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\Properties\Resources.resx" Description="文件已成功备份为 I:\备份\编程开发资料\codes\DrawChineseChess\Backup\DrawChineseChess\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\ChineseChessFinal.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="ChineseChessFinal" Source="DrawChineseChess\ChineseChessFinal.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ChineseChessFinal.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="ChineseChessFinal.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChineseChessFinal" Source="DrawChineseChess\ChineseChessFinal.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

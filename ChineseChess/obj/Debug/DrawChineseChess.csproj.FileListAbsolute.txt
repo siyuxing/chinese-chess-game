@@ -1,0 +1,8 @@
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\bin\Debug\DrawChineseChess.exe
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\bin\Debug\DrawChineseChess.pdb
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\DrawChineseChess.Form1.resources
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\DrawChineseChess.Properties.Resources.resources
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\DrawChineseChess.csproj.GenerateResource.Cache
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\DrawChineseChess.exe
+C:\Users\xsy\Desktop\中国象棋\code\DrawChineseChess\DrawChineseChess\obj\Debug\DrawChineseChess.pdb
